@@ -1,8 +1,12 @@
 References
 
+Baily, F. (1842). An Account of Some Experiments, made in London and at the Cape of Good Hope, with one of Kater’s invariable Pendulums. Memoirs of the Royal Astronomical Society, 12, 83.
+Available online at https://adsabs.harvard.edu/full/1842MmRAS..12...83B.
+
 Halliday, D., Resnick, R., & Walker, J. (2013). Fundamentals of Physics, extended. John Wiley & Sons.
 
-Kater, H. (1818). An Account of the Experiments for Determining the Length of the Pendulum Vibrating Seconds in the Latitude of London. The Edinburgh Review or Critical Journal, 30(June-September), 407–426. https://archive.org/details/bub_gb_LWEJAAAAQAAJ/
+Kater, H. (1818). An Account of the Experiments for Determining the Length of the Pendulum Vibrating Seconds in the Latitude of London. The Edinburgh Review or Critical Journal, 30(June-September), 407–426.
+Available online at https://archive.org/details/bub_gb_LWEJAAAAQAAJ/.
 
 Luisvqz. (2012, April 19). PenduloCaminos.jpg [Photograph]. Wikimedia Commons. https://commons.wikimedia.org/wiki/File:PenduloCaminos.jpg
 
