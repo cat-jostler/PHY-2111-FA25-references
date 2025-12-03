@@ -13,3 +13,11 @@ Luisvqz. (2012, April 19). PenduloCaminos.jpg [Photograph]. Wikimedia Commons. h
 National Geophysical Data Center. (1999). DNAG gravity data (GRAVCD-dnaggrav) [Data set]. National Oceanic and Atmospheric Administration. https://www.ngdc.noaa.gov/mgg/gravity/1999/data/grids/dnaggrav/
 
 Wang, X. (2016). Francis Bacon and Magnetical Cosmology. Isis, 107(4), 707–721. https://www.jstor.org/stable/26456226.
+
+Further reading, for the interested:
+Allen, A. O. (1906). Notes on the Theory of the Reversible Pendulum. The Mathematical Gazette, 3(60), 394–402. https://doi.org/10.2307/3602514
+
+Peters, R. D. (2009). Tutorial on Gravitational Pendulum Theory Applied to Seismic Sensing of Translation and Rotation. Bulletin of the Seismological Society of America, 99(2B), 1050–1063. https://doi.org/10.1785/0120080163
+
+The enviable project I wish I could have done:
+A Precision Gravity Pendulum | Model Engineer & Workshop Magazine. (n.d.). https://www.model-engineer.co.uk/forums/topic/a-precision-gravity-pendulum/
